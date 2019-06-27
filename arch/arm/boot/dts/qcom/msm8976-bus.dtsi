@@ -10,7 +10,7 @@
  * GNU General Public License for more details.
  */
 
-#include <dt-bindings/msm/msm-bus-ids.h>
+#include </home/revenger/ros/kernel/coolpad/msm8976/include/dt-bindings/msm/msm-bus-ids.h>
 
 &soc {
 	/* Version = 3 */
